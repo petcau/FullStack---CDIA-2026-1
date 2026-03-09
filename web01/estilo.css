@@ -1,0 +1,11 @@
+body {
+    background-color: rgba(119, 226, 43, 0.842);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+div {
+    background-color: aquamarine;
+}
+p{
+    color: rgb(255, 0, 0);
+}
